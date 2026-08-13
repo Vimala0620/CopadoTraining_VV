@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Interested Course --></label>
+    <name>Interested_Course__c</name>
+    <picklistValues>
+        <masterLabel>Advanced Java</masterLabel>
+        <translation><!-- Advanced Java --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>App Development</masterLabel>
+        <translation><!-- App Development --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>DotNet</masterLabel>
+        <translation><!-- DotNet --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Java</masterLabel>
+        <translation><!-- Java --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>MySQL</masterLabel>
+        <translation><!-- MySQL --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>PHP</masterLabel>
+        <translation><!-- PHP --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Python</masterLabel>
+        <translation><!-- Python --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Salesforce Admin</masterLabel>
+        <translation><!-- Salesforce Admin --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

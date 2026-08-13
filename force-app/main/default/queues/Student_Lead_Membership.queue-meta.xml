@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Queue xmlns="http://soap.sforce.com/2006/04/metadata">
+    <doesIncludeBosses>false</doesIncludeBosses>
+    <doesSendEmailToMembers>false</doesSendEmailToMembers>
+    <name>Student &amp; Lead Membership</name>
+    <queueMembers>
+        <users>
+            <user>koppinenihanuchand.k764@agentforce.com</user>
+            <user>sirikavya.g@cloudfulcrum.com.hanupro</user>
+        </users>
+    </queueMembers>
+    <queueSobject>
+        <sobjectType>Lead</sobjectType>
+    </queueSobject>
+    <queueSobject>
+        <sobjectType>Student__c</sobjectType>
+    </queueSobject>
+</Queue>

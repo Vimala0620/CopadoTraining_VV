@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>RegFeesCheck</fullName>
+    <active>true</active>
+    <errorConditionFormula>Initial_Fees__c  &lt; 5000</errorConditionFormula>
+    <errorDisplayField>Initial_Fees__c</errorDisplayField>
+    <errorMessage>Registration fee is less than 5000</errorMessage>
+</ValidationRule>

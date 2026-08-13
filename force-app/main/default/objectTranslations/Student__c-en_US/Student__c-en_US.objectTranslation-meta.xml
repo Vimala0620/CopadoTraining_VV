@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Student</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Students</value>
+    </caseValues>
+    <recordTypes>
+        <label><!-- Experienced Student --></label>
+        <name>Experienced_Student</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Fresher Student --></label>
+        <name>Fresher_Student</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Graduated Student --></label>
+        <name>Graduated_Student</name>
+    </recordTypes>
+    <startsWith>Consonant</startsWith>
+    <validationRules>
+        <errorMessage><!-- Registration fee is less than 5000 --></errorMessage>
+        <name>RegFeesCheck</name>
+    </validationRules>
+</CustomObjectTranslation>
